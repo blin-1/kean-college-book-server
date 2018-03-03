@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="kean-college-books-server-0.0.1-SNAPSHOT">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+        <wb-resource deploy-path="/" source-path="/war" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/war/WEB-INF/keys"/>
+        <property name="java-output-path" value="/iParkRouter/war/WEB-INF/classes"/>
+        <property name="context-root" value="kean-college-books-server"/>
+    </wb-module>
+</project-modules>

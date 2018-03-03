@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+filesCopiedToWebInfLib=appengine-api-1.0-sdk-1.9.48.jar|appengine-api-labs.jar|appengine-endpoints-deps.jar|appengine-endpoints.jar|appengine-jsr107cache-1.9.48.jar|jsr107cache-1.1.jar
+gaeDatanucleusEnabled=false
+gaeDatanucleusVersion=v2
+gaeDeployDialogSettings=
+gaeDoJarClasses=false
+gaeEnableJarSplitting=true
+gaeHrdEnabled=true
+gaeLaunchAppInBrowser=true
+gaeRetainStagingDirectory=false
+googleCloudSqlEnabled=false
+localDevMySqlEnabled=true
