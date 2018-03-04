@@ -4,6 +4,9 @@ import java.util.List;
 
 public class Book extends FusionEntity{
 	
+	protected Book(){		
+	}
+	
 	public Book(List<Object> row) {
 		super(row);
 		setTitle  ((String) row.get(2));
