@@ -69,7 +69,7 @@ public class AuctionService {
 		}else{
 			bidDAO.deleteJSON(bid);
 		}
-		
+		bookDAO.deleteJSON(book);
 		return response;
 		
 	}

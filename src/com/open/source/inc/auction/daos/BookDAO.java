@@ -14,7 +14,7 @@ public class BookDAO extends FusionDAO<Book>{
 	@Override
 	public Book getBestDeal(String itemId) throws IOException {
 		
-		List<Book> list = getList("id",itemId,"id");
+		List<Book> list = getList("rowId",itemId,"title");
 		return list.isEmpty()? null : list.get(0);
 	
 	}
