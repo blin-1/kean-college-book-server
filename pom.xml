@@ -10,7 +10,7 @@
     <name>Open Source Inc.</name>
   </organization>
   <properties>
-    <spring.version>4.3.4.RELEASE</spring.version>
+    <spring.version>[4.3.18,)</spring.version>
     <servlet.version>2.5</servlet.version>
   </properties>
   <dependencies>
